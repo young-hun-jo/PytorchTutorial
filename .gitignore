@@ -1,1 +1,4 @@
 *.ipynb
+
+# directory have datasets
+src/cnn/data/
